@@ -1,0 +1,2 @@
+# Aquí debemos ingresar las carpetas/ direcorios o archivos que deseamos que ignore git
+.env
